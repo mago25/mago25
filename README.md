@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mago25
-- 👀 I’m interested in ... App Design Web and Mobiles.
-- 🌱 I’m currently learning ... Java, Python, React, Spring Boot, HTML5, CSS3 and JavaScript ES6, AWS, Azure.
+- 👀 I’m interested in ... App Design Web and Mobile.
+- 🌱 I’m currently learning ... Java, Python, React, Spring Boot, HTML5, CSS3 and JavaScript ES6, AWS, Azure, MVC, SPA, PWA.
 - 💞️ I’m looking to collaborate on ... Big Data, ML, AI, etc.
 - 📫 How to reach me ... Say me to hello in mago0025@gmail.com
 
